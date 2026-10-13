@@ -1,0 +1,6 @@
+import {getRawDb}from'@/db';
+import {accountUser,requireSameOrigin}from'@/lib/account-auth';
+import {toolBody,toolReply,toolFailure}from'@/lib/tool-api';
+import {steamAchievements}from'@/lib/achievement-data';
+export async function GET(request:Request){try{const user=await accountUser(request);const completed=user?(await getRawDb().prepare('SELECT achievement_id FROM achievement_progress WHERE user_id=?').bind(user.id).all<{achievement_id:string}>()).results.map(r=>r.achievement_id):[];return toolReply({user:user?{nickname:user.nickname}:null,completed});}catch(e){return toolFailure(e);}}
+export async function POST(request:Request){try{requireSameOrigin(request);const user=await accountUser(request);if(!user)return toolReply({error:'SIGN_IN_REQUIRED'},401);const a=await toolBody(request,1000);if(!steamAchievements.some(s=>s.id===a.id)||typeof a.completed!=='boolean')throw Error('INVALID_REQUEST');if(a.completed)await getRawDb().prepare('INSERT INTO achievement_progress (user_id,achievement_id,completed_at) VALUES (?,?,?) ON CONFLICT(user_id,achievement_id) DO NOTHING').bind(user.id,a.id,Date.now()).run();else await getRawDb().prepare('DELETE FROM achievement_progress WHERE user_id=? AND achievement_id=?').bind(user.id,a.id).run();return toolReply({id:a.id,completed:a.completed});}catch(e){return toolFailure(e);}}

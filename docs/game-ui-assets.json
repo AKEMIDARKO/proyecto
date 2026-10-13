@@ -1,0 +1,295 @@
+{
+  "description": "Genuine HUD assets supplied by the owner; only transparent padding cropped and converted to lossless WebP. Attribution is retained in the Site footer.",
+  "assets": [
+    {
+      "file": "/assets/game-ui/button-gold.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonButton01Active__2211.png",
+      "dimensions": [
+        328,
+        104
+      ],
+      "sha256": "a895c40dc25be8af95120249fbc25e0181cee321fa8d948bcbfc21bbb8e083fd"
+    },
+    {
+      "file": "/assets/game-ui/button-muted.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonButton04Normal__1836.png",
+      "dimensions": [
+        192,
+        68
+      ],
+      "sha256": "00edfc56433f8917d5f948ee0716caa202a4db5f6374c1d361bb0fb4c86ad500"
+    },
+    {
+      "file": "/assets/game-ui/button-pink.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "01_Gacha/Sprites/resources/GachaButtonBg03__2647.png",
+      "dimensions": [
+        416,
+        144
+      ],
+      "sha256": "0323c505a8ea13873e57fadc982cc7c07de3a69407e450d52eb5d71e0ea752ad"
+    },
+    {
+      "file": "/assets/game-ui/button-green.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "01_Gacha/Sprites/resources/GachaButtonBg01__2244.png",
+      "dimensions": [
+        416,
+        144
+      ],
+      "sha256": "a92b99f8507327021985c15c46e3920e4549bc867d05a94408b1c85d286d0ff6"
+    },
+    {
+      "file": "/assets/game-ui/panel-frame.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonFrameNavi__1908.png",
+      "dimensions": [
+        112,
+        112
+      ],
+      "sha256": "4ee2f555127ca3074efdc914bad4f52dc2a827fbe227583722496a47d738e4fe"
+    },
+    {
+      "file": "/assets/game-ui/title-plaque.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonBaseTitle__2181.png",
+      "dimensions": [
+        128,
+        40
+      ],
+      "sha256": "18eef974a8a829ca56259d7a635d4bdd57173dcd56d134da7acf73519d72c1bf"
+    },
+    {
+      "file": "/assets/game-ui/dialog-pattern.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonBgDialogPattern__1794.png",
+      "dimensions": [
+        320,
+        96
+      ],
+      "sha256": "0dda849319a41c904e2375665b9413ae8a5b604a7ad7713754cf1c72a98d9191"
+    },
+    {
+      "file": "/assets/game-ui/orbit.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonBgPatternCircle01__2032.png",
+      "dimensions": [
+        384,
+        384
+      ],
+      "sha256": "fdff8357921c7b83cb329b5f385592ecaa475f36483219c96c24880132ee3f56"
+    },
+    {
+      "file": "/assets/game-ui/orbit-wide.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonBgPatternCircle03__2641.png",
+      "dimensions": [
+        680,
+        340
+      ],
+      "sha256": "3cda4925d60b4d2dec2889355fd57da8f3f72a722875a1cb9d32a9f728371dfe"
+    },
+    {
+      "file": "/assets/game-ui/sigil-pattern.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/PartyFramePattern__1550.png",
+      "dimensions": [
+        328,
+        232
+      ],
+      "sha256": "d57d38540a21f7db7c2b4b09e590a588a18a7606a355ea62231b2ae516940521"
+    },
+    {
+      "file": "/assets/game-ui/divider.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonLine09__1499.png",
+      "dimensions": [
+        160,
+        32
+      ],
+      "sha256": "4938a0f8f0210724b9f60a301837e963ab029b6cfc331c9a935f0c892f4a4250"
+    },
+    {
+      "file": "/assets/game-ui/divider-stars.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonLine08__2194.png",
+      "dimensions": [
+        152,
+        16
+      ],
+      "sha256": "0026cdc7be9c7217da5667afffd8ec6c02b160c053260fed884092dcb2de07c4"
+    },
+    {
+      "file": "/assets/game-ui/circle-frame.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/HomeBtnBigFooterFrame__2145.png",
+      "dimensions": [
+        164,
+        171
+      ],
+      "sha256": "5e1c51846b3c5654022fcddf85e1ca563c1e4a630e0f057222e6a954641f7de5"
+    },
+    {
+      "file": "/assets/game-ui/star-gold.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/PartyFrameRarity03__2271.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "ea36694abbb6754322cc2c8471a879d9b484b44ba61eae97748ce7e781cc8274"
+    },
+    {
+      "file": "/assets/game-ui/star-violet.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/PartyFrameRarity02__2528.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "fa5e386c2806a99ef782d162e6458625e84b892b573e944beb73d105bec125b4"
+    },
+    {
+      "file": "/assets/game-ui/star-blue.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/PartyFrameRarity01__2719.png",
+      "dimensions": [
+        48,
+        48
+      ],
+      "sha256": "81f0045833dd67e0001e02e0c040a44b50ca573b8c036f7684bf83c3c3bc8a92"
+    },
+    {
+      "file": "/assets/game-ui/rarity-5.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "03_Galeria_Perfiles_Cartas_UI/Sprites/resources/CommonStyleThumbnailFrame_05__1325.png",
+      "dimensions": [
+        152,
+        200
+      ],
+      "sha256": "bec98d85e5f58137f0b7fdf819b64935318c1e895dd8f4b160dad2279e844978"
+    },
+    {
+      "file": "/assets/game-ui/rarity-4.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "03_Galeria_Perfiles_Cartas_UI/Sprites/resources/CommonStyleThumbnailFrame_04__2045.png",
+      "dimensions": [
+        152,
+        200
+      ],
+      "sha256": "baada10a247099315e47922d8f1212d39f23570b6211d37da4e767ebb858d99c"
+    },
+    {
+      "file": "/assets/game-ui/rarity-3.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "03_Galeria_Perfiles_Cartas_UI/Sprites/resources/CommonStyleThumbnailFrame_03__2170.png",
+      "dimensions": [
+        152,
+        200
+      ],
+      "sha256": "788342c190c41bb9f4f088a77f039c899e2c869ad224b40a59c42bf11323fb15"
+    },
+    {
+      "file": "/assets/game-ui/icon-kioku.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/HomeIconFooterKioku__1914.png",
+      "dimensions": [
+        57,
+        139
+      ],
+      "sha256": "f9cc20adeeb69d05045187074e2dba97caae6fe9b6971fbedf32f509dcce51b8"
+    },
+    {
+      "file": "/assets/game-ui/icon-book.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/sharedassets13/ExedraStoryIconButtonBook01__154.png",
+      "dimensions": [
+        189,
+        144
+      ],
+      "sha256": "2f6264741fd18dc813d718c085ffbfc8250feae7548e90150931565205d04044"
+    },
+    {
+      "file": "/assets/game-ui/icon-archive.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "03_Galeria_Perfiles_Cartas_UI/Sprites/resources/HomeIconFooterGallery1__2701.png",
+      "dimensions": [
+        141,
+        141
+      ],
+      "sha256": "72ca8484008b8d03cc6671aa60f2f871b59ea0faf711fac19e432ad652085aa3"
+    },
+    {
+      "file": "/assets/game-ui/icon-play.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/sharedassets13/ExedraStoryIconButtonBook02__124.png",
+      "dimensions": [
+        97,
+        107
+      ],
+      "sha256": "778f4ddc34434dda05eda57d18c5c3db0f6f8ca91bf397028e13622b485ccf93"
+    },
+    {
+      "file": "/assets/game-ui/element-fire.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonIconElementS01__1442.png",
+      "dimensions": [
+        54,
+        85
+      ],
+      "sha256": "fe06452df3b26e21f4bc67d48bf39b2275aa40f880401f0ceceb2f3306a2bcaf"
+    },
+    {
+      "file": "/assets/game-ui/element-aqua.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonIconElementS02__1247.png",
+      "dimensions": [
+        71,
+        76
+      ],
+      "sha256": "245b30a5e1b1d328590c86648319c585fb9bb3c02f88036c201294149ba524d8"
+    },
+    {
+      "file": "/assets/game-ui/element-forest.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonIconElementS03__2625.png",
+      "dimensions": [
+        85,
+        70
+      ],
+      "sha256": "2c279f5a5352450e4d65cfa0e3b4911d8a40449bdc968e763905ce9022acab85"
+    },
+    {
+      "file": "/assets/game-ui/element-light.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonIconElementS04__2018.png",
+      "dimensions": [
+        81,
+        78
+      ],
+      "sha256": "ef328cb8a387e8239c639f1dd13ceb89c8763ff089d5001b9db4d75b03163cfd"
+    },
+    {
+      "file": "/assets/game-ui/element-dark.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonIconElementS05__1553.png",
+      "dimensions": [
+        72,
+        77
+      ],
+      "sha256": "9ebf569cf9497f1f76224178a3376485df0e765a9a3e580d7ba4d5f97be0017f"
+    },
+    {
+      "file": "/assets/game-ui/element-void.webp",
+      "archive": "Exedra_UI_Ready.rar",
+      "source": "04_Home_Party_Botones/Sprites/resources/CommonIconElementS06__1214.png",
+      "dimensions": [
+        85,
+        87
+      ],
+      "sha256": "ffc41b8f91279cb76fbff47c8a113069bd1d8ea19567ad684088ea0116f15dee"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+/* Isolated corrections; keep the game's palette, art and frames intact. */
+.language-short { display: none; }
+.language-menu { max-width: calc(100vw - 24px); }
+.language-menu [data-slot="select-item"] { min-height: 44px; }
+.language-menu [data-slot="select-item"] > span { white-space: normal; }
+.kioku-filter { min-width: 0; }
+.kioku-filter [data-slot="select-trigger"], .tier-toolbar [data-slot="select-trigger"] { width: 100%; min-width: 0; }
+.kioku-filter [data-slot="select-trigger"] [data-slot="select-value"] { min-width: 0; overflow: hidden; }
+
+@media (max-width: 650px) {
+  .language-full { display: none; }
+  .language-short { display: inline; }
+  .header-actions .icon-button { width: 44px; height: 44px; }
+  .language-select { min-height: 44px; padding-inline: 8px; min-width: 76px; width: 76px; max-width: 76px; }
+  .kioku-rarity-filters button, .tier-filters button, .tier-collapse-controls button { min-height: 44px; }
+  .tool-field input, .tool-field select, .tool-field textarea { font-size: 16px; }
+}
+@media (max-width: 400px) {
+  .header-inner { flex-wrap: wrap; row-gap: 8px; }
+  .header-actions { width: 100%; justify-content: flex-end; gap: 8px; }
+}

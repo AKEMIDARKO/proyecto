@@ -1,0 +1,62 @@
+[
+  {
+    "filename": "madoka-original-visual.webp",
+    "path": "/workspace/scratch/90693e5cb8e4/magia-research/anime-assets/madoka-original-visual.webp",
+    "title": "Puella Magi Madoka Magica",
+    "year": "2011",
+    "page_url": "https://www.madoka-magica.com/tv/archives/",
+    "image_url": "https://www.madoka-magica.com/tv/archives/img/img_main.png",
+    "width": 670,
+    "height": 580,
+    "bytes": 103334,
+    "notes": "Transparent original TV cast key art."
+  },
+  {
+    "filename": "beginning-eternal-visual.webp",
+    "path": "/workspace/scratch/90693e5cb8e4/magia-research/anime-assets/beginning-eternal-visual.webp",
+    "title": "Puella Magi Madoka Magica the Movie: Beginnings / Eternal",
+    "year": "2012",
+    "page_url": "https://www.madoka-magica.com/zenkouhen/",
+    "image_url": "https://www.madoka-magica.com/zenkouhen/img/bg.png",
+    "width": 669,
+    "height": 1120,
+    "bytes": 96280,
+    "notes": "Madoka visual from shared recap film official homepage; transparent fade at bottom."
+  },
+  {
+    "filename": "rebellion-visual.webp",
+    "path": "/workspace/scratch/90693e5cb8e4/magia-research/anime-assets/rebellion-visual.webp",
+    "title": "Puella Magi Madoka Magica the Movie: Rebellion",
+    "year": "2013",
+    "page_url": "https://www.madoka-magica.com/rebellion/",
+    "image_url": "https://www.madoka-magica.com/rebellion/img/character.png",
+    "width": 910,
+    "height": 1020,
+    "bytes": 236098,
+    "notes": "Transparent character ensemble from official film homepage."
+  },
+  {
+    "filename": "walpurgisnacht-rising-visual.webp",
+    "path": "/workspace/scratch/90693e5cb8e4/magia-research/anime-assets/walpurgisnacht-rising-visual.webp",
+    "title": "Puella Magi Madoka Magica the Movie: Walpurgisnacht Rising",
+    "year": "2026",
+    "page_url": "https://www.madoka-magica.com/wr/",
+    "image_url": "https://www.madoka-magica.com/wr/assets/img/kv/kv_5.jpg",
+    "width": 1131,
+    "height": 1600,
+    "bytes": 465650,
+    "notes": "Current official full key visual; contains costume/story hints."
+  },
+  {
+    "filename": "magia-record-visual.webp",
+    "path": "/workspace/scratch/90693e5cb8e4/magia-research/anime-assets/magia-record-visual.webp",
+    "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+    "year": "2020–2022",
+    "page_url": "https://anime.magireco.com/",
+    "image_url": "https://anime.magireco.com/assets/img/top/kv.jpg",
+    "width": 1126,
+    "height": 1600,
+    "bytes": 437588,
+    "notes": "Official Final Season visual representing the spin-off anime."
+  }
+]

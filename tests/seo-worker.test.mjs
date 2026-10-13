@@ -1,0 +1,14 @@
+import {kiokus} from '../lib/kioku-catalog.ts';
+import test from 'node:test';import assert from 'node:assert/strict';import{createRequire}from'node:module';import{readFileSync,readdirSync}from'node:fs';import{fileURLToPath}from'node:url';
+const require=createRequire(import.meta.resolve('wrangler')),{build}=require('esbuild'),{Miniflare}=require('miniflare'),root=fileURLToPath(new URL('../',import.meta.url));
+const {outputFiles}=await build({stdin:{contents:`import {GET as index} from './app/sitemap.xml/route';import {GET as locale} from './app/sitemap/[locale]/route';import {GET as robots} from './app/robots.txt/route';export default{fetch(request){const path=new URL(request.url).pathname;return path==='/robots.txt'?robots():path==='/sitemap.xml'?index():locale(request,{params:Promise.resolve({locale:path.split('/').at(-1)})});}};`,resolveDir:root,loader:'ts'},absWorkingDir:root,bundle:true,format:'esm',platform:'neutral',external:['cloudflare:workers'],write:false});
+test('actual sitemap handlers validate locale, keep all locales, read new public content and return no-store on storage failure',async t=>{
+ const mf=new Miniflare({modules:true,compatibilityDate:'2026-05-15',script:outputFiles[0].text,d1Databases:['DB']});t.after(()=>mf.dispose());const db=await mf.getD1Database('DB');
+ const index=await mf.dispatchFetch('https://magia.test/sitemap.xml');assert.equal(index.status,200);assert.equal(((await index.text()).match(/<sitemap>/g)||[]).length,9);
+ const unavailable=await mf.dispatchFetch('https://magia.test/sitemap/es.xml');assert.equal(unavailable.status,503);assert.equal(unavailable.headers.get('cache-control'),'no-store');
+ assert.equal((await mf.dispatchFetch('https://magia.test/sitemap/unknown.xml')).status,404);
+ const migrations=new URL('../drizzle/',import.meta.url);await db.batch(readdirSync(migrations).filter(f=>f.endsWith('.sql')).sort().flatMap(f=>readFileSync(new URL(f,migrations),'utf8').split('--> statement-breakpoint')).map(s=>s.trim()).filter(Boolean).map(s=>db.prepare(s)));
+ const future={...kiokus[0],id:'19999999'};await db.prepare('INSERT INTO public_updates (key,value_json,updated_at) VALUES (?,?,?)').bind('kioku:19999999',JSON.stringify(future),new Date().toISOString()).run();
+ for(const lang of ['es','en','ja','pl','fr','it','de','zh-Hans','zh-Hant']){const response=await mf.dispatchFetch(`https://magia.test/sitemap/${lang}.xml`);assert.equal(response.status,200);assert.match(response.headers.get('content-type'),/application\/xml/);const xml=await response.text();assert.ok(xml.includes(`/${lang}/characters/`));assert.ok(xml.includes(`/${lang}/kioku/19999999/`));assert.ok(!xml.includes('/profile/'));assert.ok(Buffer.byteLength(xml)<1000000);}
+ const robots=await mf.dispatchFetch('https://magia.test/robots.txt');assert.equal(robots.status,200);assert.ok((await robots.text()).includes('/sitemap.xml'));
+});

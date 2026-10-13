@@ -1,0 +1,196 @@
+{
+  "assets": [
+    {
+      "slug": "enhance-glow",
+      "japanese_name": "エンハンスグロウ",
+      "path": "/assets/database/enhance-glow.png",
+      "source_page": "https://game8.jp/madoka-exedra/677585",
+      "image_url": "https://img.game8.jp/11181349/c0c78ba585deeba481854262436418f4.png/show",
+      "source_alt": "エンハンスグロウ",
+      "bytes": 36464,
+      "english_name": "Enhance Glow",
+      "dimensions": [
+        230,
+        230
+      ],
+      "sha256": "469dfadb452c30574f551c60beaf9133373a7c3960b64cc8b7ea0c602dc72cef",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "magia-book",
+      "japanese_name": "マギアブック",
+      "path": "/assets/database/magia-book.png",
+      "source_page": "https://game8.jp/madoka-exedra/678219",
+      "image_url": "https://img.game8.jp/11181342/95a4b5a628020ea144d71b0466f0b276.png/show",
+      "source_alt": "マギアブック",
+      "bytes": 49156,
+      "english_name": "Magia Book",
+      "dimensions": [
+        230,
+        230
+      ],
+      "sha256": "7c047cb9b1dd4fc4232b47a53c8af0b633e45e9ae9e432746688b38697782eb1",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "magical-palette",
+      "japanese_name": "マジカルパレット",
+      "path": "/assets/database/magical-palette.png",
+      "source_page": "https://game8.jp/madoka-exedra/677626",
+      "image_url": "https://img.game8.jp/11181335/537eeb718afb85c7e126dd0eb797b404.png/show",
+      "source_alt": "マジカルパレット",
+      "bytes": 49176,
+      "english_name": "Magical Palette",
+      "dimensions": [
+        240,
+        240
+      ],
+      "sha256": "2cb43ed20329294da21bbcb974ebfa92f65b468e71e7babead3074fdb57c980b",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "flame-orb",
+      "japanese_name": "フレイムオーブ",
+      "path": "/assets/database/flame-orb.png",
+      "source_page": "https://game8.jp/madoka-exedra/681396",
+      "image_url": "https://img.game8.jp/11234595/e097b7c0245ec9f41ff5ed81c9933a3e.png/show",
+      "source_alt": "フレイムオーブ",
+      "bytes": 64893,
+      "english_name": "Flame Orb",
+      "dimensions": [
+        217,
+        217
+      ],
+      "sha256": "069bf39afee4aad7c2293fd20ed4eae70909ddd3de755ab9e3639e17ff7426f7",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "aqua-orb",
+      "japanese_name": "アクアオーブ",
+      "path": "/assets/database/aqua-orb.png",
+      "source_page": "https://game8.jp/madoka-exedra/681398",
+      "image_url": "https://img.game8.jp/11234592/609720bcf2685ea33e0c71a8e5e3625a.png/show",
+      "source_alt": "アクアオーブ",
+      "bytes": 65299,
+      "english_name": "Aqua Orb",
+      "dimensions": [
+        217,
+        217
+      ],
+      "sha256": "8d07c87c2b24c5dd51f9fbbc949898a6a71f4e055428db3f401ad10199971031",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "forest-orb",
+      "japanese_name": "ウッドオーブ",
+      "path": "/assets/database/forest-orb.png",
+      "source_page": "https://game8.jp/madoka-exedra/681313",
+      "image_url": "https://img.game8.jp/11234593/224bf98523f2b404bc35f412e96f7a7d.png/show",
+      "source_alt": "ウッドオーブ",
+      "bytes": 64359,
+      "english_name": "Forest / Wood Orb",
+      "dimensions": [
+        217,
+        217
+      ],
+      "sha256": "4598a094c66711b37bc9da64f81f88b3219aac8ff0bfba7e38929bf188f95e90",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "light-orb",
+      "japanese_name": "ライトオーブ",
+      "path": "/assets/database/light-orb.png",
+      "source_page": "https://game8.jp/madoka-exedra/681395",
+      "image_url": "https://img.game8.jp/11234596/694794932e0746d4da638aa56c1e0185.png/show",
+      "source_alt": "ライトオーブ",
+      "bytes": 62834,
+      "english_name": "Light Orb",
+      "dimensions": [
+        217,
+        217
+      ],
+      "sha256": "ac3426c7068fed57e2a1768416f4ceb7d16e49e2d9abab625fdef99f964e0189",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "dark-orb",
+      "japanese_name": "ダークオーブ",
+      "path": "/assets/database/dark-orb.png",
+      "source_page": "https://game8.jp/madoka-exedra/681394",
+      "image_url": "https://img.game8.jp/11234597/4e7a09f554a4e6c23aa77747528a7916.png/show",
+      "source_alt": "ダークオーブ",
+      "bytes": 64538,
+      "english_name": "Dark Orb",
+      "dimensions": [
+        217,
+        217
+      ],
+      "sha256": "65e9566123cc6af884abb2e918253f630bbaa36f1af6215249e94990fec190dd",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "void-orb",
+      "japanese_name": "ホロウオーブ",
+      "path": "/assets/database/void-orb.png",
+      "source_page": "https://game8.jp/madoka-exedra/681393",
+      "image_url": "https://img.game8.jp/11234594/f0d085d0280f42a33284e238088547ce.png/show",
+      "source_alt": "ホロウオーブ",
+      "bytes": 65578,
+      "english_name": "Void / Hollow Orb",
+      "dimensions": [
+        217,
+        217
+      ],
+      "sha256": "9e1a8647dca2981d70f2861f76c7ced71e6f150c6e2e34ab2e756a698ce114ba",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "portrait-salvation",
+      "japanese_name": "救世の使徒",
+      "path": "/assets/database/portrait-salvation.png",
+      "source_page": "https://game8.jp/madoka-exedra/680112",
+      "image_url": "https://img.game8.jp/11385938/2794571f6a1da2de8bc4ccf1c354dc9c.png/original",
+      "source_alt": "救世の使徒の画像",
+      "bytes": 150127,
+      "english_name": "The Savior's Apostle",
+      "dimensions": [
+        800,
+        369
+      ],
+      "sha256": "70a94a83536c1d6dd81eb07bfe8c5f0eaa9f841c7269b4d33da772d99158a236",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "portrait-best-friends",
+      "japanese_name": "持つべきものは親友",
+      "path": "/assets/database/portrait-best-friends.png",
+      "source_page": "https://game8.jp/madoka-exedra/681124",
+      "image_url": "https://img.game8.jp/11385445/fec75515c9211a94474edeb6f0d359aa.png/original",
+      "source_alt": "持つべきものは親友の画像",
+      "bytes": 109620,
+      "english_name": "Best Friend Required",
+      "dimensions": [
+        800,
+        369
+      ],
+      "sha256": "01902a199ad96f4f893a3406031d6ca273788b11e5776ac6bbb3e41280edc459",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    },
+    {
+      "slug": "portrait-someday",
+      "japanese_name": "きっとまたいつか",
+      "path": "/assets/database/portrait-someday.png",
+      "source_page": "https://game8.jp/madoka-exedra/680111",
+      "image_url": "https://img.game8.jp/11385912/1adb585cf9cd25ecb25f9dfe1dfe4692.png/original",
+      "source_alt": "きっとまたいつかの画像",
+      "bytes": 148367,
+      "english_name": "Surely Again Someday",
+      "dimensions": [
+        800,
+        369
+      ],
+      "sha256": "c2711c6daa2a5b9c2b6bff678d5628d61c5eda6741d3a8b34a8a1910ed991c25",
+      "verification": "Exact Japanese image alt text on the named Game8 record page; visually inspected in contact sheet."
+    }
+  ]
+}

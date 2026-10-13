@@ -1,0 +1,1197 @@
+{
+  "checked": "2026-10-09",
+  "index": "https://game8.jp/madoka-exedra/675102",
+  "indexCount": 64,
+  "items": [
+    {
+      "id": "magica-stone",
+      "category": "currencies",
+      "japanese": "マギカストーン",
+      "width": 170,
+      "height": 170,
+      "sha256": "9a1fddd3e02a47ea13210e35bde21967bac49a419009bbfb964979fc84da43d7",
+      "functionJapanese": "ガチャを引くための通貨\nスタミナ回復\nマギアボックス受取",
+      "acquisitionJapanese": "・メインストーリー（クエストクリア報酬・ステージクリア報酬）\n・ピュエラピクトゥーラ（収集・完成）\n・デイリーミッション",
+      "iconURL": "https://img.game8.jp/11181336/d53ec7887dddd4ebe8214ce52256846b.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magica-stone.png",
+      "source": "https://game8.jp/madoka-exedra/677612",
+      "size": null,
+      "sharedAssetIds": [
+        "magica-stone"
+      ]
+    },
+    {
+      "id": "aq-chip",
+      "category": "currencies",
+      "japanese": "A-Qチップ",
+      "width": 170,
+      "height": 170,
+      "sha256": "41cd53e17b62080fdee5ab34691a61b08dca4b0f1355eda511c5c251e382f63e",
+      "functionJapanese": "キオクやポートレイトの強化",
+      "acquisitionJapanese": "・マギアボックス\n・強化クエスト「キオク・魔力解放」",
+      "iconURL": "https://img.game8.jp/11181347/03c8489887d5b2ee5637abfdf7194177.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/aq-chip.png",
+      "source": "https://game8.jp/madoka-exedra/677627",
+      "size": null,
+      "sharedAssetIds": [
+        "aq-chip"
+      ]
+    },
+    {
+      "id": "magical-cube",
+      "category": "consumables",
+      "japanese": "マジカルキューブ",
+      "width": 205,
+      "height": 205,
+      "sha256": "b8c5ce1c02c195a77c0cab6ac22e7f3d098a4cd1dffeb9da5098f6af2550a67f",
+      "functionJapanese": "QPを上限分回復",
+      "acquisitionJapanese": "・デイリーミッション\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181339/9291cf16536b461002a1421e8a6e9b73.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magical-cube.png",
+      "source": "https://game8.jp/madoka-exedra/677622",
+      "size": null,
+      "sharedAssetIds": [
+        "magical-cube"
+      ]
+    },
+    {
+      "id": "kioku-medal",
+      "category": "currencies",
+      "japanese": "キオクメダル",
+      "width": 250,
+      "height": 250,
+      "sha256": "e2a5bd05e234b7a05e63ec1280e2d5bc439f348a03a5321dc9ad6bad4b3bed32",
+      "functionJapanese": "ガチャの交換所でアイテムと交換できる",
+      "acquisitionJapanese": "・ガチャ",
+      "iconURL": "https://img.game8.jp/11181352/edb961e2c594ff7e9d9845c6482bc06e.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/kioku-medal.png",
+      "source": "https://game8.jp/madoka-exedra/675102",
+      "size": null,
+      "sharedAssetIds": [
+        "kioku-medal"
+      ]
+    },
+    {
+      "id": "remain-medal",
+      "category": "currencies",
+      "japanese": "リメインメダル",
+      "width": 250,
+      "height": 250,
+      "sha256": "66cd479fd356e900211f0e7e2a82c507515d76c4f3de2c41b1f0884a6f0593ec",
+      "functionJapanese": "リメインメダル効果所で使用するアイテム",
+      "acquisitionJapanese": "・ガチャ",
+      "iconURL": "https://img.game8.jp/11181337/d5e43bde9160a016437ace92fc4ccdb6.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/remain-medal.png",
+      "source": "https://game8.jp/madoka-exedra/687074",
+      "size": null,
+      "sharedAssetIds": [
+        "remain-medal"
+      ]
+    },
+    {
+      "id": "arena-medal",
+      "category": "currencies",
+      "japanese": "対戦メダル",
+      "width": 217,
+      "height": 217,
+      "sha256": "b079c099b5166112b732f95f38e7320575ff1617c7b077a9a1b695768ea6ecea",
+      "functionJapanese": "対戦メダル交換所で使用する",
+      "acquisitionJapanese": "・交換所（プレイヤーマッチ）",
+      "iconURL": "https://img.game8.jp/11241265/be59f8911fa2044ba8f299d33a643c85.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/arena-medal.png",
+      "source": "https://game8.jp/madoka-exedra/681987",
+      "size": null,
+      "sharedAssetIds": [
+        "arena-medal"
+      ]
+    },
+    {
+      "id": "kioku-exchange-medal-4star",
+      "category": "currencies",
+      "japanese": "★4キオク交換メダル",
+      "width": 200,
+      "height": 200,
+      "sha256": "4ab618cc99db408211537c79c33203f033a13cd680dc13d08921516ed0716401",
+      "functionJapanese": "★4キオク交換メダル交換所でアイテムと交換",
+      "acquisitionJapanese": "・キャンペーン配布",
+      "iconURL": "https://img.game8.jp/11243101/a9560b4912b763592c10a3e545998ebb.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/kioku-exchange-medal-4star.png",
+      "source": "https://game8.jp/madoka-exedra/682225",
+      "size": null,
+      "sharedAssetIds": [
+        "kioku-exchange-medal-4star"
+      ]
+    },
+    {
+      "id": "memory-ticket",
+      "category": "tickets",
+      "japanese": "記憶の切符",
+      "width": 250,
+      "height": 250,
+      "sha256": "4efe8aeef639f79fc792bedcbdc3a4ba6e40f9736eea7d32db2f2e24a56e94ef",
+      "functionJapanese": "アーカイブされたストーリーイベントを解放できる",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11251760/540bbca193d3be55ff4b2225b26593f0.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/memory-ticket.png",
+      "source": "https://game8.jp/madoka-exedra/682493",
+      "size": null,
+      "sharedAssetIds": [
+        "memory-ticket"
+      ]
+    },
+    {
+      "id": "archive-medal",
+      "category": "currencies",
+      "japanese": "アーカイブメダル",
+      "width": 250,
+      "height": 250,
+      "sha256": "496212737f75ad5a972f6c71dd7c38381a087e4bcbfdb42047ab636c10b60722",
+      "functionJapanese": "アーカイブメダル交換所で使用するアイテム",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11253858/2a4d904165a4ab825f303f4a6d62614e.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/archive-medal.png",
+      "source": "https://game8.jp/madoka-exedra/682609",
+      "size": null,
+      "sharedAssetIds": [
+        "archive-medal"
+      ]
+    },
+    {
+      "id": "memorial-medal",
+      "category": "currencies",
+      "japanese": "メモリアルメダル",
+      "width": 200,
+      "height": 200,
+      "sha256": "699052e42d40a876e2b976f69edca1ed61d0c89813aaec7b5e762dffedb63e40",
+      "functionJapanese": "イベント交換所で使用するアイテム",
+      "acquisitionJapanese": "・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11342640/0e1e6b274bff4ffdf11ccc2ef4483546.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/memorial-medal.png",
+      "source": "https://game8.jp/madoka-exedra/681840",
+      "size": null,
+      "sharedAssetIds": [
+        "memorial-medal"
+      ]
+    },
+    {
+      "id": "paint-drop",
+      "category": "consumables",
+      "japanese": "ペイントドロップ",
+      "width": 200,
+      "height": 200,
+      "sha256": "a326525eca73fa634bc0eee459188d39cd69e580d18beb75cda781a45c62c28b",
+      "functionJapanese": "アビリティのブースト効果抽選",
+      "acquisitionJapanese": "・強化クエスト「能力晶花クエスト」\n・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11558805/4f5cd045ba4500965571362bb2fcd0fe.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/paint-drop.webp",
+      "source": "https://game8.jp/madoka-exedra/676824",
+      "size": null,
+      "sharedAssetIds": [
+        "paint-drop"
+      ]
+    },
+    {
+      "id": "open-vase",
+      "category": "consumables",
+      "japanese": "オープンヴェイス",
+      "width": 200,
+      "height": 200,
+      "sha256": "908baf50cce81040c69080ea4bd8e79efedd514d3cb2bc1e0812fe613d49846e",
+      "functionJapanese": "アビリティスロット解放",
+      "acquisitionJapanese": "・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11558806/8a4d50262e1dfd60670f57ffa4bcb22c.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/open-vase.webp",
+      "source": "https://game8.jp/madoka-exedra/677405",
+      "size": null,
+      "sharedAssetIds": [
+        "open-vase"
+      ]
+    },
+    {
+      "id": "drop-lock",
+      "category": "consumables",
+      "japanese": "ドロップロック",
+      "width": 200,
+      "height": 200,
+      "sha256": "7f4bed461a2b040ec88ef23554d8096ee9b246468658a0a0ff6c8bbf9aca4921",
+      "functionJapanese": "アビリティのブースト効果をロックする",
+      "acquisitionJapanese": "・期間限定ミッション",
+      "iconURL": "https://img.game8.jp/11558814/513d750a69d26c172ec8cdb2ab931512.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/drop-lock.webp",
+      "source": "https://game8.jp/madoka-exedra/706310",
+      "size": null,
+      "sharedAssetIds": [
+        "drop-lock"
+      ]
+    },
+    {
+      "id": "magical-ring",
+      "category": "consumables",
+      "japanese": "マジカルリング",
+      "width": 265,
+      "height": 265,
+      "sha256": "0593e034f4487164ab96809a8f685d88f51021aef988f23aa67c96bc0b2dd567",
+      "functionJapanese": "LP回復用のアイテム",
+      "acquisitionJapanese": "・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11754995/a914f42c7182961c81d3f5d320b503e2.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magical-ring.webp",
+      "source": "https://game8.jp/madoka-exedra/675102",
+      "size": null,
+      "sharedAssetIds": [
+        "magical-ring"
+      ]
+    },
+    {
+      "id": "kioku-exchange-medal-5star",
+      "category": "currencies",
+      "japanese": "★5キオク交換メダル",
+      "width": 129,
+      "height": 129,
+      "sha256": "0654d9b3cc1227000fb1bd7b9078c7e74ab70d24892e83e895a6343b2a890730",
+      "functionJapanese": "交換所で対象の★5キオクの中から好きなキオクと交換できます。",
+      "acquisitionJapanese": "・期間限定ミッション\n・キャンペーン配布",
+      "iconURL": "https://img.game8.jp/13015191/5c16fbe856158c712bafe3d2e27d8c5a.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/kioku-exchange-medal-5star.webp",
+      "source": "https://game8.jp/madoka-exedra/816844",
+      "size": null,
+      "sharedAssetIds": [
+        "kioku-exchange-medal-5star"
+      ]
+    },
+    {
+      "id": "magia-key",
+      "category": "tickets",
+      "japanese": "マギアキー",
+      "width": 230,
+      "height": 230,
+      "sha256": "ed155e8e6961b3ce42ba3086a18e0f6bc821ab4ea1eff60d8ca03f2ece3262dd",
+      "functionJapanese": "1つにつきガチャ1回分が引ける",
+      "acquisitionJapanese": "・ピュエラピクトゥーラ（RankUP報酬）",
+      "iconURL": "https://img.game8.jp/11263690/793356298fe30d79c45f8229292fa019.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-key.png",
+      "source": "https://game8.jp/madoka-exedra/677624",
+      "size": null,
+      "sharedAssetIds": [
+        "magia-key"
+      ]
+    },
+    {
+      "id": "magia-key-5star",
+      "category": "tickets",
+      "japanese": "★5キオク確定マギアキー",
+      "width": 251,
+      "height": 250,
+      "sha256": "518a71abe7090cdcfb164faebfabd8336b7299ee2128b0a3cab41a3c7ab97e4d",
+      "functionJapanese": "★5以上キオク確定マギアキーガチャを引ける",
+      "acquisitionJapanese": "・交換所（リメインメダル）",
+      "iconURL": "https://img.game8.jp/11353008/2683ea73c32a5a9a94cef3bb934af1b6.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-key-5star.png",
+      "source": "https://game8.jp/madoka-exedra/677624",
+      "size": null,
+      "sharedAssetIds": [
+        "magia-key-5star"
+      ]
+    },
+    {
+      "id": "magia-key-4star",
+      "category": "tickets",
+      "japanese": "★4以上キオク確定マギアキー",
+      "width": 230,
+      "height": 230,
+      "sha256": "268f89a641a12d0959c1cfc4ed567d3312304c0702474efbf86b03d9046b0aeb",
+      "functionJapanese": "★4以上キオク確定マギアキーガチャを引ける",
+      "acquisitionJapanese": "※準備中です",
+      "iconURL": "https://img.game8.jp/11263691/c78db89de02e0e1a8da8e4ed4669bcff.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-key-4star.png",
+      "source": "https://game8.jp/madoka-exedra/677624",
+      "size": null,
+      "sharedAssetIds": [
+        "magia-key-4star"
+      ]
+    },
+    {
+      "id": "magia-key-fragment-5star",
+      "category": "tickets",
+      "japanese": "★5キオク確定マギアキーのかけら",
+      "width": 230,
+      "height": 230,
+      "sha256": "8d3b596681fcb1f2cb7b14ef8af58ed25332b3d7b05eb10802af4fe7c6857479",
+      "functionJapanese": "30個集めることで専用の星5確定ガチャが引ける",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11263686/f8d3cf79762eaabdecab22332c4d4024.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-key-fragment-5star.png",
+      "source": "https://game8.jp/madoka-exedra/687282",
+      "size": null,
+      "sharedAssetIds": [
+        "magia-key-fragment-5star",
+        "magia-key-fragment-5star-pass"
+      ]
+    },
+    {
+      "id": "magia-key-fragment-5star-pass",
+      "category": "tickets",
+      "japanese": "★5キオク確定マギアキーのかけら(エクセドラパス)",
+      "width": 230,
+      "height": 230,
+      "sha256": "8d3b596681fcb1f2cb7b14ef8af58ed25332b3d7b05eb10802af4fe7c6857479",
+      "functionJapanese": "30個集めることで専用の星5確定ガチャが引ける(エクセドラパス限定)",
+      "acquisitionJapanese": "・エクセドラパス",
+      "iconURL": "https://img.game8.jp/11263686/f8d3cf79762eaabdecab22332c4d4024.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-key-fragment-5star.png",
+      "source": "https://game8.jp/madoka-exedra/687282",
+      "size": null,
+      "sharedAssetIds": [
+        "magia-key-fragment-5star",
+        "magia-key-fragment-5star-pass"
+      ]
+    },
+    {
+      "id": "magia-key-wishlist-5star",
+      "category": "tickets",
+      "japanese": "★5キオク確定ウィッシュリストガチャ専用マギアキー",
+      "width": 250,
+      "height": 250,
+      "sha256": "fa25a5ca2e454808707d8603fa9b5d29e3f1c74592c9bb26894e91588686e850",
+      "functionJapanese": "特定の期間までに登場した限定キオクを除く★5キオクから10体選択してガチャを引けます。1体あたりの提供割合は10%です。",
+      "acquisitionJapanese": "・交換所（リメインメダル）",
+      "iconURL": "https://img.game8.jp/12913968/b9b7f400ad11ac86de43532df4ff3017.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-key-wishlist-5star.webp",
+      "source": "https://game8.jp/madoka-exedra/811018",
+      "size": null,
+      "sharedAssetIds": [
+        "magia-key-wishlist-5star"
+      ]
+    },
+    {
+      "id": "stone-flame",
+      "category": "materials",
+      "japanese": "フレイムストーン",
+      "width": 230,
+      "height": 230,
+      "sha256": "9e542c833067800ea8a59b5cf28fef88bde6be9a3f66cb11976242cc4afac602",
+      "functionJapanese": "火属性キオクの魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放」\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181332/bced2fdaf0fb2054ffc888468c4d9280.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/stone-flame.png",
+      "source": "https://game8.jp/madoka-exedra/677605",
+      "size": null,
+      "sharedAssetIds": [
+        "stone-flame"
+      ]
+    },
+    {
+      "id": "stone-aqua",
+      "category": "materials",
+      "japanese": "アクアストーン",
+      "width": 230,
+      "height": 230,
+      "sha256": "a406e8903891f959d7ffad5e3b62096055aea5d9ad5909e8b26b4ceecf077a8c",
+      "functionJapanese": "水属性キオクの魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放」\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181346/3bdd06bfbfa891b9fc961a27437bccd7.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/stone-aqua.png",
+      "source": "https://game8.jp/madoka-exedra/677606",
+      "size": null,
+      "sharedAssetIds": [
+        "stone-aqua"
+      ]
+    },
+    {
+      "id": "stone-forest",
+      "category": "materials",
+      "japanese": "ウッドストーン",
+      "width": 230,
+      "height": 230,
+      "sha256": "380e26bdce3d0dff842a2f95dd8dd5a8f1c3d151f277f3708aeb819b4aa9ee89",
+      "functionJapanese": "木属性キオクの魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放」\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181351/08b51765fd763a7afbcb644c2fa46609.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/stone-forest.png",
+      "source": "https://game8.jp/madoka-exedra/677608",
+      "size": null,
+      "sharedAssetIds": [
+        "stone-forest"
+      ]
+    },
+    {
+      "id": "stone-light",
+      "category": "materials",
+      "japanese": "ライトストーン",
+      "width": 230,
+      "height": 230,
+      "sha256": "70e724fc6631d9295b880860ae4c8f9e1cb95c03122eae9057a3c1dc5a84ef68",
+      "functionJapanese": "光属性キオクの魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放」\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181334/ea5bd5f1ab3875b491e81017f28f8899.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/stone-light.png",
+      "source": "https://game8.jp/madoka-exedra/677609",
+      "size": null,
+      "sharedAssetIds": [
+        "stone-light"
+      ]
+    },
+    {
+      "id": "stone-dark",
+      "category": "materials",
+      "japanese": "ダークストーン",
+      "width": 230,
+      "height": 230,
+      "sha256": "d7fa4cb0861a324792f881647802b646ee007681cdec88785224c622cf123b9b",
+      "functionJapanese": "闇属性キオクの魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放」\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181350/6f281f735b72397f448b4f8a1fea480c.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/stone-dark.png",
+      "source": "https://game8.jp/madoka-exedra/677610",
+      "size": null,
+      "sharedAssetIds": [
+        "stone-dark"
+      ]
+    },
+    {
+      "id": "stone-void",
+      "category": "materials",
+      "japanese": "ホロウストーン",
+      "width": 230,
+      "height": 230,
+      "sha256": "eca8ccc1e15016dcb6517dfb1a37c3664ab0834dd765d947abfb75051874e732",
+      "functionJapanese": "無属性キオクの魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放」\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181355/2f6961558f54dbc9d4d7dbfe768cbc3d.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/stone-void.png",
+      "source": "https://game8.jp/madoka-exedra/677611",
+      "size": null,
+      "sharedAssetIds": [
+        "stone-void"
+      ]
+    },
+    {
+      "id": "stone-prism",
+      "category": "materials",
+      "japanese": "プリズムストーン",
+      "width": 230,
+      "height": 230,
+      "sha256": "dda5bddad5cce7dae3f0276e0781d68ab57171e743b30ad34963de21544abe7a",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・マギアボックス\n・強化クエスト「魔力解放」\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181330/1b62e777395222af995dfcc079a4cab3.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/stone-prism.png",
+      "source": "https://game8.jp/madoka-exedra/677618",
+      "size": null,
+      "sharedAssetIds": [
+        "stone-prism"
+      ]
+    },
+    {
+      "id": "gem-prism",
+      "category": "materials",
+      "japanese": "プリズムジェム",
+      "width": 250,
+      "height": 250,
+      "sha256": "832d8a412e76f7e8eff837f3ffa05faf7f587a1087389d8fa8f4de40d3338330",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放（Rank15以上）」\n・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11181333/e16b6f50a30a5d7b877edcf3880c5816.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/gem-prism.png",
+      "source": "https://game8.jp/madoka-exedra/677619",
+      "size": null,
+      "sharedAssetIds": [
+        "gem-prism"
+      ]
+    },
+    {
+      "id": "orb-prism",
+      "category": "materials",
+      "japanese": "プリズムオーブ",
+      "width": 230,
+      "height": 230,
+      "sha256": "e627cf15cbd09944f9d6fe267cd18d16cd895b4738536363039de24a71289536",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・メインストーリー（NightmareのBonusポイント）\n・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11263687/03f8fd992c1d40dcdd4dd75dab1137c5.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/orb-prism.png",
+      "source": "https://game8.jp/madoka-exedra/677620",
+      "size": null,
+      "sharedAssetIds": [
+        "orb-prism"
+      ]
+    },
+    {
+      "id": "orb-dark",
+      "category": "materials",
+      "japanese": "ダークオーブ",
+      "width": 217,
+      "height": 217,
+      "sha256": "65e9566123cc6af884abb2e918253f630bbaa36f1af6215249e94990fec190dd",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・メインストーリー（NightmareのBonusポイント）\n・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11234597/4e7a09f554a4e6c23aa77747528a7916.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/orb-dark.png",
+      "source": "https://game8.jp/madoka-exedra/681394",
+      "size": null,
+      "sharedAssetIds": [
+        "orb-dark"
+      ]
+    },
+    {
+      "id": "orb-light",
+      "category": "materials",
+      "japanese": "ライトオーブ",
+      "width": 217,
+      "height": 217,
+      "sha256": "ac3426c7068fed57e2a1768416f4ceb7d16e49e2d9abab625fdef99f964e0189",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・メインストーリー（NightmareのBonusポイント）\n・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11234596/694794932e0746d4da638aa56c1e0185.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/orb-light.png",
+      "source": "https://game8.jp/madoka-exedra/681395",
+      "size": null,
+      "sharedAssetIds": [
+        "orb-light"
+      ]
+    },
+    {
+      "id": "orb-void",
+      "category": "materials",
+      "japanese": "ホロウオーブ",
+      "width": 217,
+      "height": 217,
+      "sha256": "9e1a8647dca2981d70f2861f76c7ced71e6f150c6e2e34ab2e756a698ce114ba",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・メインストーリー（NightmareのBonusポイント）\n・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11234594/f0d085d0280f42a33284e238088547ce.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/orb-void.png",
+      "source": "https://game8.jp/madoka-exedra/681393",
+      "size": null,
+      "sharedAssetIds": [
+        "orb-void"
+      ]
+    },
+    {
+      "id": "orb-flame",
+      "category": "materials",
+      "japanese": "フレイムオーブ",
+      "width": 217,
+      "height": 217,
+      "sha256": "069bf39afee4aad7c2293fd20ed4eae70909ddd3de755ab9e3639e17ff7426f7",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・メインストーリー（NightmareのBonusポイント）\n・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11234595/e097b7c0245ec9f41ff5ed81c9933a3e.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/orb-flame.png",
+      "source": "https://game8.jp/madoka-exedra/681396",
+      "size": null,
+      "sharedAssetIds": [
+        "orb-flame"
+      ]
+    },
+    {
+      "id": "orb-aqua",
+      "category": "materials",
+      "japanese": "アクアオーブ",
+      "width": 217,
+      "height": 217,
+      "sha256": "8d07c87c2b24c5dd51f9fbbc949898a6a71f4e055428db3f401ad10199971031",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・メインストーリー（NightmareのBonusポイント）\n・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11234592/609720bcf2685ea33e0c71a8e5e3625a.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/orb-aqua.png",
+      "source": "https://game8.jp/madoka-exedra/681398",
+      "size": null,
+      "sharedAssetIds": [
+        "orb-aqua"
+      ]
+    },
+    {
+      "id": "orb-forest",
+      "category": "materials",
+      "japanese": "ウッドオーブ",
+      "width": 217,
+      "height": 217,
+      "sha256": "4598a094c66711b37bc9da64f81f88b3219aac8ff0bfba7e38929bf188f95e90",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・メインストーリー（NightmareのBonusポイント）\n・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11234593/224bf98523f2b404bc35f412e96f7a7d.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/orb-forest.png",
+      "source": "https://game8.jp/madoka-exedra/681313",
+      "size": null,
+      "sharedAssetIds": [
+        "orb-forest"
+      ]
+    },
+    {
+      "id": "gem-void",
+      "category": "materials",
+      "japanese": "ホロウジェム",
+      "width": 217,
+      "height": 217,
+      "sha256": "7c41e7dbfc4fe5910e89a98365df680c4ac0b25495ae105b3d6802515863d3c7",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放（Rank15以上）」\n・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11243296/1e641d2fe1e56cd2bf4a9e582dd24418.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/gem-void.png",
+      "source": "https://game8.jp/madoka-exedra/682262",
+      "size": null,
+      "sharedAssetIds": [
+        "gem-void"
+      ]
+    },
+    {
+      "id": "gem-dark",
+      "category": "materials",
+      "japanese": "ダークジェム",
+      "width": 217,
+      "height": 217,
+      "sha256": "510fed7bc78236e45f7e77d2c75fa00fb565aeb7419dd9b7a60c262dbd56fd2e",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放（Rank15以上）」\n・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11243298/71398266918ad9e2d476bf23ab1338f3.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/gem-dark.png",
+      "source": "https://game8.jp/madoka-exedra/682256",
+      "size": null,
+      "sharedAssetIds": [
+        "gem-dark"
+      ]
+    },
+    {
+      "id": "gem-flame",
+      "category": "materials",
+      "japanese": "フレイムジェム",
+      "width": 217,
+      "height": 217,
+      "sha256": "367e167f07e78b0890b89e2dceb99b1670a4dca4ff61d33facb9be34780af7f6",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放（Rank15以上）」\n・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11243295/6f54de37cc6538c14db2a753f05db646.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/gem-flame.png",
+      "source": "https://game8.jp/madoka-exedra/682277",
+      "size": null,
+      "sharedAssetIds": [
+        "gem-flame"
+      ]
+    },
+    {
+      "id": "gem-forest",
+      "category": "materials",
+      "japanese": "ウッドジェム",
+      "width": 217,
+      "height": 217,
+      "sha256": "dba5ac6755cbf724c8250b12f164efc8d1e3e73df2508906042fd37b865e2807",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放（Rank15以上）」\n・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11243294/805f74c6f8ba13daf77c16d651f1a0e0.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/gem-forest.png",
+      "source": "https://game8.jp/madoka-exedra/682252",
+      "size": null,
+      "sharedAssetIds": [
+        "gem-forest"
+      ]
+    },
+    {
+      "id": "gem-aqua",
+      "category": "materials",
+      "japanese": "アクアジェム",
+      "width": 217,
+      "height": 217,
+      "sha256": "baddb256097133067abce1d8b74b6c3ce33bf4693ce0eccc375d726bac98c644",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放（Rank15以上）」\n・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11243297/042fe44076a3108a62c60075dad3bf9f.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/gem-aqua.png",
+      "source": "https://game8.jp/madoka-exedra/682274",
+      "size": null,
+      "sharedAssetIds": [
+        "gem-aqua"
+      ]
+    },
+    {
+      "id": "gem-light",
+      "category": "materials",
+      "japanese": "ライトジェム",
+      "width": 217,
+      "height": 217,
+      "sha256": "2bd38436c1e300e47e3a8478abf3f971ce58818fc3d459a60f9222a890d1d9c4",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・強化クエスト「魔力解放（Rank15以上）」\n・交換所（交換所）",
+      "iconURL": "https://img.game8.jp/11243293/23dda94f7717218908e753b9b466852d.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/gem-light.png",
+      "source": "https://game8.jp/madoka-exedra/682245",
+      "size": null,
+      "sharedAssetIds": [
+        "gem-light"
+      ]
+    },
+    {
+      "id": "core-prism",
+      "category": "materials",
+      "japanese": "プリズムコア",
+      "width": 200,
+      "height": 200,
+      "sha256": "08eb2aa238b32bdc9bf2270445c57030fa2ac06d43f0eeff1db2656ae86d9d58",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・交換所（交換所）\n・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11558800/6726edc599cd3fd43744cd456b384593.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/core-prism.webp",
+      "source": "https://game8.jp/madoka-exedra/706621",
+      "size": null,
+      "sharedAssetIds": [
+        "core-prism"
+      ]
+    },
+    {
+      "id": "core-forest",
+      "category": "materials",
+      "japanese": "ウッドコア",
+      "width": 232,
+      "height": 233,
+      "sha256": "a4e0a5366ec760ec3f5656cc4d1dc2c8906972a0ec2a1c0c35003ec0be099969",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・交換所（イベント）\n・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11569168/907d281b7b150839e25f3fbb8db4aa29.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/core-forest.webp",
+      "source": "https://game8.jp/madoka-exedra/706603",
+      "size": null,
+      "sharedAssetIds": [
+        "core-forest"
+      ]
+    },
+    {
+      "id": "core-flame",
+      "category": "materials",
+      "japanese": "フレイムコア",
+      "width": 232,
+      "height": 233,
+      "sha256": "c18bcea4655250cd062f907927be29bd237f7604415e4eb77d8b34b2a662cf0d",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11569166/4103fb8f367b0e0fb412b09db8326b53.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/core-flame.webp",
+      "source": "https://game8.jp/madoka-exedra/706597",
+      "size": null,
+      "sharedAssetIds": [
+        "core-flame"
+      ]
+    },
+    {
+      "id": "core-aqua",
+      "category": "materials",
+      "japanese": "アクアコア",
+      "width": 232,
+      "height": 233,
+      "sha256": "cdfe781e2622400d56f81c8e2ae9918b28e202aaaaaf22bdcf035d10bafae0a5",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11569167/9db3be1f632a3030642e023c41812097.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/core-aqua.webp",
+      "source": "https://game8.jp/madoka-exedra/706620",
+      "size": null,
+      "sharedAssetIds": [
+        "core-aqua"
+      ]
+    },
+    {
+      "id": "core-light",
+      "category": "materials",
+      "japanese": "ライトコア",
+      "width": 232,
+      "height": 233,
+      "sha256": "e20bc71f8c0c541c4068785ee813779a16bd1e46386eede58428994881810726",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・交換所（イベント）\n・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11569170/83237fe12431ec83e3aba7e88c112c91.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/core-light.webp",
+      "source": "https://game8.jp/madoka-exedra/706606",
+      "size": null,
+      "sharedAssetIds": [
+        "core-light"
+      ]
+    },
+    {
+      "id": "core-dark",
+      "category": "materials",
+      "japanese": "ダークコア",
+      "width": 232,
+      "height": 233,
+      "sha256": "4bb718949abf83670c38bbe1a9f7e1fc5ff71ac6c3cebab6e144fcd3b371060d",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11569172/d4e1c41ca088185eb9f5003c455c3f24.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/core-dark.webp",
+      "source": "https://game8.jp/madoka-exedra/706605",
+      "size": null,
+      "sharedAssetIds": [
+        "core-dark"
+      ]
+    },
+    {
+      "id": "core-void",
+      "category": "materials",
+      "japanese": "ホロウコア",
+      "width": 232,
+      "height": 233,
+      "sha256": "89d1f3094e2881cc5033c82dede1ea2734b0e7df99710666071104886c568bbd",
+      "functionJapanese": "魔力解放素材",
+      "acquisitionJapanese": "・交換所（イベント）\n・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11569169/46d66d059872682d673e9a6a8f66f5d9.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/core-void.webp",
+      "source": "https://game8.jp/madoka-exedra/706618",
+      "size": null,
+      "sharedAssetIds": [
+        "core-void"
+      ]
+    },
+    {
+      "id": "enhance-glow",
+      "category": "materials",
+      "japanese": "エンハンスグロウ",
+      "width": 230,
+      "height": 230,
+      "sha256": "469dfadb452c30574f551c60beaf9133373a7c3960b64cc8b7ea0c602dc72cef",
+      "functionJapanese": "キオク経験値素材",
+      "acquisitionJapanese": "・マギアボックス\n・メインストーリー（フィールド内）\n・強化クエスト「キオク強化」\n・交換所（イベント）",
+      "iconURL": "https://img.game8.jp/11181349/c0c78ba585deeba481854262436418f4.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/enhance-glow.png",
+      "source": "https://game8.jp/madoka-exedra/677585",
+      "size": null,
+      "sharedAssetIds": [
+        "enhance-glow"
+      ]
+    },
+    {
+      "id": "heart-sand-small",
+      "category": "materials",
+      "japanese": "こころの砂（小）",
+      "width": 200,
+      "height": 200,
+      "sha256": "fd03510a6f894cab43b4ceb19671981598f2ffbd63f1ade5f39a1d9d728a40d9",
+      "functionJapanese": "こころの器Lv.強化素材",
+      "acquisitionJapanese": "・ピュエラピクトゥーラ（RankUP報酬）",
+      "iconURL": "https://img.game8.jp/11181343/907b8aafc439e63d78739c734953c475.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/heart-sand-small.png",
+      "source": "https://game8.jp/madoka-exedra/677621",
+      "size": "small",
+      "sharedAssetIds": [
+        "heart-sand-small"
+      ]
+    },
+    {
+      "id": "heart-sand-large",
+      "category": "materials",
+      "japanese": "こころの砂（大）",
+      "width": 250,
+      "height": 250,
+      "sha256": "260e77610c13a6e9dc15a7f9e7cfb53ef6ebc288e9901129aa90e9650cbf98a5",
+      "functionJapanese": "こころの器Lv.強化素材",
+      "acquisitionJapanese": "・ピュエラピクトゥーラ（RankUP報酬）",
+      "iconURL": "https://img.game8.jp/11351591/5e2fbdf89a9fe1f2be5524a36fe42beb.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/heart-sand-large.png",
+      "source": "https://game8.jp/madoka-exedra/677621",
+      "size": "large",
+      "sharedAssetIds": [
+        "heart-sand-large"
+      ]
+    },
+    {
+      "id": "magia-book-small",
+      "category": "materials",
+      "japanese": "マギアブック（小）",
+      "width": 230,
+      "height": 230,
+      "sha256": "7c047cb9b1dd4fc4232b47a53c8af0b633e45e9ae9e432746688b38697782eb1",
+      "functionJapanese": "キオクの必殺技Lv強化素材",
+      "acquisitionJapanese": "・交換所（常設・イベント）",
+      "iconURL": "https://img.game8.jp/11181342/95a4b5a628020ea144d71b0466f0b276.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-book-small.png",
+      "source": "https://game8.jp/madoka-exedra/678219",
+      "size": "small",
+      "sharedAssetIds": [
+        "magia-book-small"
+      ]
+    },
+    {
+      "id": "magia-book-medium",
+      "category": "materials",
+      "japanese": "マギアブック（中）",
+      "width": 220,
+      "height": 220,
+      "sha256": "5a8c628d419a9e3b2e3f39c8321b6750aa93977c61a0f43b9d38f8c75f6c6df8",
+      "functionJapanese": "キオクの必殺技Lv強化素材",
+      "acquisitionJapanese": "・交換所（常設・イベント）",
+      "iconURL": "https://img.game8.jp/11181348/6b1569ef29cb98a1fb68c70ebebc78be.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-book-medium.png",
+      "source": "https://game8.jp/madoka-exedra/678219",
+      "size": "medium",
+      "sharedAssetIds": [
+        "magia-book-medium"
+      ]
+    },
+    {
+      "id": "magia-book",
+      "category": "materials",
+      "japanese": "マギアブック（大）",
+      "width": 250,
+      "height": 249,
+      "sha256": "a5ea9d305db32ddc755bf61c03170aa529441c093f18e3c4136a7d2deddbe8f6",
+      "functionJapanese": "キオクの必殺技Lv強化素材",
+      "acquisitionJapanese": "・交換所（常設・イベント）",
+      "iconURL": "https://img.game8.jp/11181331/0e7d26dfddfbe0f21f853d1842508dbf.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magia-book.png",
+      "source": "https://game8.jp/madoka-exedra/678219",
+      "size": "large",
+      "sharedAssetIds": [
+        "magia-book"
+      ]
+    },
+    {
+      "id": "magical-palette-small",
+      "category": "materials",
+      "japanese": "マジカルパレット（小）",
+      "width": 240,
+      "height": 240,
+      "sha256": "2cb43ed20329294da21bbcb974ebfa92f65b468e71e7babead3074fdb57c980b",
+      "functionJapanese": "ポートレイトの強化素材",
+      "acquisitionJapanese": "・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11181335/537eeb718afb85c7e126dd0eb797b404.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magical-palette-small.png",
+      "source": "https://game8.jp/madoka-exedra/677626",
+      "size": "small",
+      "sharedAssetIds": [
+        "magical-palette-small"
+      ]
+    },
+    {
+      "id": "magical-palette-medium",
+      "category": "materials",
+      "japanese": "マジカルパレット（中）",
+      "width": 240,
+      "height": 240,
+      "sha256": "566bdcec518d7cddb11a63aac73006bc05a8281dbb666d0a196d03706ea89b2e",
+      "functionJapanese": "ポートレイトの強化素材",
+      "acquisitionJapanese": "・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11181341/c4adffba8f1405f58ac5d270efb0def3.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magical-palette-medium.png",
+      "source": "https://game8.jp/madoka-exedra/677626",
+      "size": "medium",
+      "sharedAssetIds": [
+        "magical-palette-medium"
+      ]
+    },
+    {
+      "id": "magical-palette",
+      "category": "materials",
+      "japanese": "マジカルパレット（大）",
+      "width": 230,
+      "height": 230,
+      "sha256": "bcdd49fe683cbe9386fc0983eccb7fa6798d7329361530e5f80bdf46352abdcd",
+      "functionJapanese": "ポートレイトの強化素材",
+      "acquisitionJapanese": "・交換所（対戦メダル・イベント）",
+      "iconURL": "https://img.game8.jp/11263681/9fe14d783dc7a1f8bb3ccf04b98a4b4b.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/magical-palette.png",
+      "source": "https://game8.jp/madoka-exedra/677626",
+      "size": "large",
+      "sharedAssetIds": [
+        "magical-palette"
+      ]
+    },
+    {
+      "id": "kioku-crystal",
+      "category": "materials",
+      "japanese": "キオククリスタル",
+      "width": 250,
+      "height": 250,
+      "sha256": "5e8c4a6d80240cabeb85489f54fd4d51ad3dccd0f8e0485279347e77ca88812f",
+      "functionJapanese": "キオクの限界突破に使用します。1個で1段階、任意の★3〜★5キオクの限界突破が行えいます。",
+      "acquisitionJapanese": "・キャンペーン配布",
+      "iconURL": "https://img.game8.jp/13040122/01b78f72ae9d094d15f3ab83a84e6794.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/kioku-crystal.webp",
+      "source": "https://game8.jp/madoka-exedra/818906",
+      "size": null,
+      "sharedAssetIds": [
+        "kioku-crystal"
+      ]
+    },
+    {
+      "id": "kioku-crystal-fragment",
+      "category": "materials",
+      "japanese": "キオククリスタルのかけら",
+      "width": 250,
+      "height": 250,
+      "sha256": "5a2ae458bcc901cc2a6550e92d5be68ed870e24b3889e3536bd764f15528890d",
+      "functionJapanese": "キオクの限界突破に使用します。100個で1段階、任意の★3〜★5キオクの限界突破が行えいます。",
+      "acquisitionJapanese": "・期間限定ミッション\n・エクセドラパス",
+      "iconURL": "https://img.game8.jp/13040121/f433016148c88f2acf92bc40cd021eb7.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/kioku-crystal-fragment.webp",
+      "source": "https://game8.jp/madoka-exedra/818909",
+      "size": null,
+      "sharedAssetIds": [
+        "kioku-crystal-fragment"
+      ]
+    },
+    {
+      "id": "trophy-bronze",
+      "category": "rewards",
+      "japanese": "ブロンズトロフィー",
+      "width": 150,
+      "height": 150,
+      "sha256": "d23408bdac7f5e2bcd1107b6bad097b94d0451d750c83fc34e9316076a970fb5",
+      "functionJapanese": "特に無し",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11310055/09b52bf69d2b84557b7b1c677d0a256e.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/trophy-bronze.png",
+      "source": "https://game8.jp/madoka-exedra/686728",
+      "size": null,
+      "sharedAssetIds": [
+        "trophy-bronze"
+      ]
+    },
+    {
+      "id": "trophy-silver",
+      "category": "rewards",
+      "japanese": "シルバートロフィー",
+      "width": 150,
+      "height": 150,
+      "sha256": "9e8513d756ba959e1457d22eb9c74a6b5ded4092e145e791766ca8c10785a715",
+      "functionJapanese": "特に無し",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11310056/37120afee92c5b09b23ac607ece4dc79.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/trophy-silver.png",
+      "source": "https://game8.jp/madoka-exedra/686727",
+      "size": null,
+      "sharedAssetIds": [
+        "trophy-silver"
+      ]
+    },
+    {
+      "id": "trophy-gold",
+      "category": "rewards",
+      "japanese": "ゴールドトロフィー",
+      "width": 200,
+      "height": 200,
+      "sha256": "3581866473cc9d110cb1c6421b36322748b7295053df47ea68f364ed162d9ba1",
+      "functionJapanese": "特に無し",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11310053/d75862f1fafdf126a6d00906f8a52261.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/trophy-gold.png",
+      "source": "https://game8.jp/madoka-exedra/686726",
+      "size": null,
+      "sharedAssetIds": [
+        "trophy-gold"
+      ]
+    },
+    {
+      "id": "trophy-platinum",
+      "category": "rewards",
+      "japanese": "プラチナトロフィー",
+      "width": 200,
+      "height": 200,
+      "sha256": "df50b82af95916afce0ddfec6fea72534efb15b0fb045500312cb87f5dd63917",
+      "functionJapanese": "特に無し",
+      "acquisitionJapanese": "・イベントストーリー報酬",
+      "iconURL": "https://img.game8.jp/11310054/fff3546d63f607596d57d390cda370a0.png/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/675102",
+      "image": "/assets/items/trophy-platinum.png",
+      "source": "https://game8.jp/madoka-exedra/686725",
+      "size": null,
+      "sharedAssetIds": [
+        "trophy-platinum"
+      ]
+    },
+    {
+      "id": "style-ticket",
+      "category": "tickets",
+      "japanese": "スタイルチケット",
+      "width": 220,
+      "height": 220,
+      "sha256": "d0a4d592653e5b10d9fb9564e5671e5af645a5ba713d2a0dc989fcbc304e60de",
+      "functionJapanese": "カメラやドール機能で使用できる素材を交換できる",
+      "acquisitionJapanese": "イベント交換所",
+      "iconURL": "https://img.game8.jp/12088704/875c8d14bfdffbf456d94acc1c570dbf.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/757193",
+      "image": "/assets/items/style-ticket.webp",
+      "source": "https://game8.jp/madoka-exedra/757193",
+      "size": null,
+      "sharedAssetIds": [
+        "style-ticket"
+      ]
+    },
+    {
+      "id": "crystalis-skip-ticket",
+      "category": "tickets",
+      "japanese": "能力晶花チケット",
+      "width": 186,
+      "height": 186,
+      "sha256": "c3c3a3a269d7161062a748398cbfee30078c5956747571d4dc0ee9efa428fdd6",
+      "functionJapanese": "まとめて挑戦機能を使用するための新アイテム",
+      "acquisitionJapanese": "イベント交換所",
+      "iconURL": "https://img.game8.jp/12132208/77a637c3d3ebd668e91e5c00201b30fb.webp/show",
+      "sourceURL": "https://game8.jp/madoka-exedra/757193",
+      "image": "/assets/items/crystalis-skip-ticket.webp",
+      "source": "https://game8.jp/madoka-exedra/757193",
+      "size": null,
+      "sharedAssetIds": [
+        "crystalis-skip-ticket"
+      ]
+    }
+  ]
+}
